@@ -6,6 +6,10 @@ A small set of inline open-ended cargo bays for Kerbal Space Program 1.0.5.
 
 There are two parts, in the size 0 (0.625 m) and 1 (1.25 m) form factors.
 
+![As used in planes](https://raw.githubusercontent.com/Kerbas-ad-astra/Mk1CargoBay/master/horizontal_stack.png)
+
+![As used in rockets](https://raw.githubusercontent.com/Kerbas-ad-astra/Mk1CargoBay/master/vertical_stack.png)
+
 ##Download and install
 
 * GitHub
