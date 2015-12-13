@@ -12,7 +12,7 @@ There are two parts, in the size 0 (0.625 m) and 1 (1.25 m) form factors.
 
 ##Download and install
 
-* GitHub
+* [**GitHub**](https://github.com/Kerbas-ad-astra/Mk1CargoBay/releases)
 * CurseForge
 * KerbalStuff
 
@@ -37,7 +37,7 @@ Nothing in particular -- just keeping it up-to-date.
 
 ##Credits
 
-Thanks to Talisar for the models, Roxette for the initial release, jlcarneiro for suggesting the Mk0 bay, and Master39 for the revised texture (I went back to the original interior rather than the gold/orange stuff, but the outside color looks much better).
+Thanks to Talisar for the models (caretaker releases by taniwha [over here](http://forum.kerbalspaceprogram.com/index.php?/topic/116849-104-talisar-parts-v100/) and [on GitHub](https://github.com/taniwha-qf/TalisarParts)), Roxette for the [initial release](http://forum.kerbalspaceprogram.com/index.php?/topic/104523-090-mk1-cargo-bay/), jlcarneiro for suggesting the Mk0 bay, and Master39 for the revised texture (I went back to the original interior rather than the gold/orange stuff, but the outside color looks much better).
 
 ##License
 
