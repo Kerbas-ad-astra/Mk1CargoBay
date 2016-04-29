@@ -14,7 +14,6 @@ There are two parts, in the size 0 (0.625 m) and 1 (1.25 m) form factors.
 
 * [**GitHub**](https://github.com/Kerbas-ad-astra/Mk1CargoBay/releases)
 * CurseForge
-* KerbalStuff
 
 From there, just unzip the "Mk1CargoBay" folder into your GameData directory.  Be sure to delete the old Mk1CargoBay if it's still around -- otherwise, the old PNG texture might stick around and cause trouble.
 
