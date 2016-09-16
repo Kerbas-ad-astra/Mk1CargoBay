@@ -23,12 +23,15 @@ None at this time.  Please let me know if you find any!
 
 ##Version history and changelog
 
-* 2015 12 12: "Initial" release.  Fixes include:
+* 2015 12 12 (1.1): "Initial" release.  Fixes include:
 	* DDS texture
 	* Fixed scaling to avoid stock MODEL/rescaleFactor bug
 	* Drag cubes
 	* ModuleCargoBay for shielding contents
 	* Size 0 (0.625m) bay added
+* 2016 09 XX (1.2): Tag-team
+	* Tags added.
+	* .version file added.
 
 ##Roadmap
 

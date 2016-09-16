@@ -1,0 +1,31 @@
+{
+	"NAME":"HGR Community Fixes",
+	"URL":"https://raw.githubusercontent.com/Kerbas-ad-astra/Mk1CargoBay/master/GameData/Mk1CargoBay/Mk1CargoBay.version",
+	"DOWNLOAD":"https://github.com/Kerbas-ad-astra/Mk1CargoBay/releases",
+	"GITHUB":{
+		"USERNAME":"Kerbas-ad-astra",
+		"REPOSITORY":"Mk1CargoBay",
+		"ALLOW_PRE_RELEASE":false
+	},
+	"VERSION":{
+		"MAJOR":1,
+		"MINOR":2,
+		"PATCH":0,
+		"BUILD":0
+	},
+	"KSP_VERSION":{
+		"MAJOR":1,
+		"MINOR":2,
+		"PATCH":0
+	},
+	"KSP_VERSION_MIN":{
+		"MAJOR":1,
+		"MINOR":1,
+		"PATCH":0
+	},
+	"KSP_VERSION_MAX":{
+		"MAJOR":1,
+		"MINOR":2,
+		"PATCH":0
+	}
+}
