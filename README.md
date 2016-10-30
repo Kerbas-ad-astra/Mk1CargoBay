@@ -1,6 +1,6 @@
 #Mk 1 Cargo Bay
 
-A small set of inline open-ended cargo bays for Kerbal Space Program 1.0.5.
+A small set of inline open-ended cargo bays for Kerbal Space Program 1.x.
 
 ##Parts
 
@@ -29,8 +29,9 @@ None at this time.  Please let me know if you find any!
 	* Drag cubes
 	* ModuleCargoBay for shielding contents
 	* Size 0 (0.625m) bay added
-* 2016 09 XX (1.2): Tag-team
+* 02016 10 29 (1.2): Tag-team
 	* Tags added.
+	* Updated to use new "Payload" category -- so **this and later releases are no longer compatible with KSP 1.0.x or 1.1.x**.
 	* .version file added.
 
 ##Roadmap
