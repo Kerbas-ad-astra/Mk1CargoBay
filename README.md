@@ -33,6 +33,8 @@ None at this time.  Please let me know if you find any!
 	* Tags added.
 	* Updated to use new "Payload" category -- so **this and later releases are no longer compatible with KSP 1.0.x or 1.1.x**.
 	* .version file added.
+* 02017 06 10 (1.3): Export Licensing
+	* Updated to support KSP 1.3's localization system.
 
 ##Roadmap
 
