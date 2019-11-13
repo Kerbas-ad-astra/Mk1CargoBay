@@ -12,8 +12,8 @@ There are two parts, in the size 0 (0.625 m) and 1 (1.25 m) form factors.
 
 ##Download and install
 
-* [**GitHub**](https://github.com/Kerbas-ad-astra/Mk1CargoBay/releases)
-* CurseForge
+- [**GitHub**](https://github.com/Kerbas-ad-astra/Mk1CargoBay/releases)
+- CurseForge
 
 From there, just unzip the "Mk1CargoBay" folder into your GameData directory.  Be sure to delete the old Mk1CargoBay if it's still around -- otherwise, the old PNG texture might stick around and cause trouble.
 
@@ -23,18 +23,18 @@ None at this time.  Please let me know if you find any!
 
 ##Version history and changelog
 
-* 2015 12 12 (1.1): "Initial" release.  Fixes include:
-	* DDS texture
-	* Fixed scaling to avoid stock MODEL/rescaleFactor bug
-	* Drag cubes
-	* ModuleCargoBay for shielding contents
-	* Size 0 (0.625m) bay added
-* 02016 10 29 (1.2): Tag-team
-	* Tags added.
-	* Updated to use new "Payload" category -- so **this and later releases are no longer compatible with KSP 1.0.x or 1.1.x**.
-	* .version file added.
-* 02017 06 10 (1.3): Export Licensing
-	* Updated to support KSP 1.3's localization system.
+- 2015 12 12 (1.1): "Initial" release.  Fixes include:
+	- DDS texture
+	- Fixed scaling to avoid stock MODEL/rescaleFactor bug
+	- Drag cubes
+	- ModuleCargoBay for shielding contents
+	- Size 0 (0.625m) bay added
+- 02016 10 29 (1.2): Tag-team
+	- Tags added.
+	- Updated to use new "Payload" category -- so **this and later releases are no longer compatible with KSP 1.0.x or 1.1.x**.
+	- .version file added.
+- 02017 06 10 (1.3): Export Licensing
+	- Updated to support KSP 1.3's localization system.
 
 ##Roadmap
 
