@@ -1,8 +1,8 @@
-#Mk 1 Cargo Bay
+# Mk 1 Cargo Bay
 
 A small set of inline open-ended cargo bays for Kerbal Space Program.
 
-##Parts
+## Parts
 
 There are two parts, in the size 0 (0.625 m) and 1 (1.25 m) form factors.
 
@@ -10,18 +10,18 @@ There are two parts, in the size 0 (0.625 m) and 1 (1.25 m) form factors.
 
 ![As used in rockets](https://raw.githubusercontent.com/Kerbas-ad-astra/Mk1CargoBay/master/vertical_stack.png)
 
-##Download and install
+## Download and install
 
 - [**GitHub**](https://github.com/Kerbas-ad-astra/Mk1CargoBay/releases)
 - CurseForge
 
 From there, just unzip the "Mk1CargoBay" folder into your GameData directory.  Be sure to delete the old Mk1CargoBay if it's still around -- otherwise, the old PNG texture might stick around and cause trouble.
 
-##Known and anticipated issues
+## Known and anticipated issues
 
 None at this time.  Please let me know if you find any!
 
-##Version history and changelog
+## Version history and changelog
 
 - 2015 12 12 (1.1): "Initial" release.  Fixes include:
 	- DDS texture
@@ -38,14 +38,14 @@ None at this time.  Please let me know if you find any!
 - 02021 09 06 (1.4): We CAN Build It!
 	- Updated to support KSP 1.11's Construction system.
 
-##Roadmap
+## Roadmap
 
 End of the road, thanks for letting these parts into your builds!  I hope they've been useful for making smaller rockets just a little bit cleaner.  :)
 
-##Credits
+## Credits
 
 Thanks to Talisar for the models (caretaker releases by taniwha [over here](http://forum.kerbalspaceprogram.com/index.php?/topic/116849-104-talisar-parts-v100/) and [on GitHub](https://github.com/taniwha-qf/TalisarParts)), Roxette for the [initial release](http://forum.kerbalspaceprogram.com/index.php?/topic/104523-090-mk1-cargo-bay/), jlcarneiro for suggesting the Mk0 bay, and Master39 for the revised texture (I went back to the original interior rather than the gold/orange stuff, but the outside color looks much better).
 
-##License
+## License
 
 (This release of) Mk 1 Cargo Bay is copyright 2015 Kerbas_ad_astra.  Part configuration files, Module Manager patches, models, and textures are released under the [**CC-BY-SA 3.0**](http://creativecommons.org/licenses/by-sa/3.0/) license (or any later version).
