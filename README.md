@@ -1,6 +1,6 @@
 #Mk 1 Cargo Bay
 
-A small set of inline open-ended cargo bays for Kerbal Space Program 1.x.
+A small set of inline open-ended cargo bays for Kerbal Space Program.
 
 ##Parts
 
@@ -35,10 +35,12 @@ None at this time.  Please let me know if you find any!
 	- .version file added.
 - 02017 06 10 (1.3): Export Licensing
 	- Updated to support KSP 1.3's localization system.
+- 02021 09 06 (1.4): We CAN Build It!
+	- Updated to support KSP 1.11's Construction system.
 
 ##Roadmap
 
-Nothing in particular -- just keeping it up-to-date.
+End of the road, thanks for letting these parts into your builds!  I hope they've been useful for making smaller rockets just a little bit cleaner.  :)
 
 ##Credits
 
